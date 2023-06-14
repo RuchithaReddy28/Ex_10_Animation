@@ -307,8 +307,11 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## Output:
-![output](https://github.com/RuchithaReddy28/Ex_10_Animation/blob/main/r.png?raw=true)
-![output](https://github.com/RuchithaReddy28/Ex_10_Animation/blob/main/rr.png?raw=true)
-![output](https://github.com/RuchithaReddy28/Ex_10_Animation/blob/main/rrr.png?raw=true)
+![244680124-a381efde-6a3e-48c8-ac26-ab33bfbdebc4](https://github.com/RuchithaReddy28/Ex_10_Animation/assets/93427261/66942c75-3860-40ff-9730-ec4a0abf5b94)
+
+![244680142-59eb8f7e-4093-4034-b0e3-1d66fc30e63b](https://github.com/RuchithaReddy28/Ex_10_Animation/assets/93427261/fef688a4-83ec-402e-8f48-aa0c2cf4538e)
+
+![244680162-95ca58b2-b626-409c-87a4-1168aaa1790a](https://github.com/RuchithaReddy28/Ex_10_Animation/assets/93427261/8cb065f7-a212-49fd-8d43-4b7f4d432443)
+
 ## Result:
 Thus a Simple Android Application to perform different animations for the image on the screen using Android Studio was developed and executed successfully.
